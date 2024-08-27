@@ -21,7 +21,9 @@ class MainActivity : ComponentActivity() {
 //               WelComeScreen()
 //                LoginScreen()
 //                RegisterScreen()
-                Otp()
+//                Otp()
+//                TrangChu()
+                HomePage()
             }
         }
     }
